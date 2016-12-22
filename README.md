@@ -8,6 +8,6 @@ Allows users running Android 4.4+ to connect with products over Bluetooth Low En
 ![alt tag](https://github.com/aJimmer/Aria/blob/master/screenshots/image000000.png)
 ![alt tag](https://github.com/aJimmer/Aria/blob/master/screenshots/Screenshot_20161221-143614.jpeg)
 ![alt tag](https://github.com/aJimmer/Aria/blob/master/screenshots/Screenshot_20161221-143620.jpeg)
-![alt tag](https://github.com/aJimmer/Aria/blob/master/screenshots/Screenshot_20161221-143631.png)                `
+![alt tag](https://github.com/aJimmer/Aria/blob/master/screenshots/Screenshot_20161221-143625.png)                `
 ![alt tag](https://github.com/aJimmer/Aria/blob/master/screenshots/Screenshot_20161221-143631.png)
 
